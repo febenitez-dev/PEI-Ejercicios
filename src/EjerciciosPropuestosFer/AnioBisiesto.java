@@ -7,15 +7,13 @@ public class AnioBisiesto {
             throw new AnioNegativo("No se puede calcular un año negativo");
         }
 
-        boolean esBisiesto = year % 4 == 0 && year % 100 == 0;
-
-        if (esBisiesto) {
-            System.out.printf("El año %d es bisiesto", year).println();
+        if (year % 4 != 0) {
+            return false;
+        } else if (year % 100 != 0) {
+            return true;
         } else {
-            System.out.printf("El año %d no es bisiesto", year).println();
+            return year % 400 == 0;
         }
-
-        return esBisiesto;
     }
 }
 
