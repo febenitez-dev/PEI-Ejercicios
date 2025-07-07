@@ -4,7 +4,6 @@ public class ExercisesSet1 {
 
     // 1.
     public int hello() {
-        //TODO: Make this return 1
         return 1;
     }
 
