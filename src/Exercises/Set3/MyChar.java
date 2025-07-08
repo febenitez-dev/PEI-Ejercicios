@@ -1,4 +1,4 @@
-package ExercisesSet3;
+package Exercises.Set3;
 
 public class MyChar {
     // Method to determine if a character is a vowel

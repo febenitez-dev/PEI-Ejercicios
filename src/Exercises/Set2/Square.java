@@ -1,4 +1,4 @@
-package ExercisesSet2;
+package Exercises.Set2;
 
 public class Square {
     private int side;

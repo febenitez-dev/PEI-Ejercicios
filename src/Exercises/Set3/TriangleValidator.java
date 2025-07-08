@@ -1,4 +1,4 @@
-package ExercisesSet3;
+package Exercises.Set3;
 
 public class TriangleValidator {
     public static boolean isValidTriangle(int angle1, int angle2, int angle3) {

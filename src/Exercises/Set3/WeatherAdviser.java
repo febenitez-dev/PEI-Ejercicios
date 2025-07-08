@@ -1,4 +1,4 @@
-package ExercisesSet3;
+package Exercises.Set3;
 
 /*
     If the temperature is less than 0, return "It's freezing! Wear a heavy coat."

@@ -1,4 +1,4 @@
-package ExercisesSet2;
+package Exercises.Set2;
 
 // Defining a Point class to represent a point in 2-dimensional space
 public class Point {

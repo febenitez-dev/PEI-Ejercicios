@@ -1,4 +1,4 @@
-package ExercisesSet1;
+package Exercises.Set1;
 
 public class ExercisesSet1 {
 

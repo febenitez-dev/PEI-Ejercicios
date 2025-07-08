@@ -1,4 +1,4 @@
-package ExercisesSet3;
+package Exercises.Set3;
 
 public class Student {
     private int marks;
