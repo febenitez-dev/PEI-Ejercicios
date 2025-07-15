@@ -1,9 +1,5 @@
 package Exercises.Set6;
 
-import java.util.Arrays;
-import java.util.Optional;
-import java.util.OptionalInt;
-
 public class ArrayMagic {
     /**
      * This method determines whether there's an element greater than a given number in an array.
